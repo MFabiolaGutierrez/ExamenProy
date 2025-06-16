@@ -4,7 +4,7 @@ import Barra from './Barra.jsx';
 import PaginaInicio from "./paginas/PaginaInicio.jsx";
 import PagiansOfertas from "./paginas/PaginasOfertas.jsx";
 import NavBarra from "./NavBarra.jsx";
-import Pie from "./Pie.JSX";
+import Pie from "./Pie.jsx";
 import "./index.css";
 
 export default function Principal() {
