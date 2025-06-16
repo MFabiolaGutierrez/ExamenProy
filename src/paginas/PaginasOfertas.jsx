@@ -34,7 +34,7 @@ export default function PaginasOfertas() {
 
         <Col xs="12" md="6" lg="4">
           <Card>
-            <img alt="Tinku" src="src/img/tinku.jpg" height="200" style={{ objectFit: 'cover' }} />
+            <img alt="Tinku" src="https://www.google.com/imgres?q=tinku&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F6%2F6c%2FBailarin_de_Tinku_en_Bolivia.jpg%2F2560px-Bailarin_de_Tinku_en_Bolivia.jpg&imgrefurl=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3ABailarin_de_Tinku_en_Bolivia.jpg&docid=7fYxWaYP0RyqvM&tbnid=DGIi6mp0afUsCM&vet=12ahUKEwj6poa87PSNAxXjALkGHa7VDJYQM3oECEgQAA..i&w=2560&h=2048&hcb=2&ved=2ahUKEwj6poa87PSNAxXjALkGHa7VDJYQM3oECEgQAA" height="200" style={{ objectFit: 'cover' }} />
             <CardBody>
               <CardTitle tag="h5">Tinku</CardTitle>
               <CardSubtitle className="mb-2 text-muted" tag="h6">Potosí</CardSubtitle>
